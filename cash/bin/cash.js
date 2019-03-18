@@ -6,10 +6,6 @@ const chalk = require('chalk');
 const ora = require('ora');
 const currencies = require('../lib/currencies.json');
 /**
- * @requires got
- * @requires money
- * @requires chalk
- * @requires ora
  * @file Store the currencies information
  */
 
